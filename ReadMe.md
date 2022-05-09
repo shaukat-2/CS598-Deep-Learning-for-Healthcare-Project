@@ -37,3 +37,8 @@ Notebooks folder contain:
 
 ## Trained Models
 Tained models for this reproducibility studies are available under /local_mimic/save/checkpoint/ folder.
+
+## Results
+This paper was not reproducible because exact dataset processing code and Model Code base was not available.
+
+![Results](https://github.com/shaukat-2/CS598-Project/blob/main/local_mimic/Results.PNG?raw=true)
