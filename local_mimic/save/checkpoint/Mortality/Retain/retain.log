@@ -1,0 +1,334 @@
+Epoch:0, Train_cost:0.983226, Validation_AUC:0.482774
+Currently the best validation AUC found. Test AUC:0.531710 at epoch:0
+Epoch:1, Train_cost:0.784309, Validation_AUC:0.513304
+Currently the best validation AUC found. Test AUC:0.562866 at epoch:1
+Epoch:2, Train_cost:0.681926, Validation_AUC:0.713233
+Currently the best validation AUC found. Test AUC:0.697197 at epoch:2
+Epoch:3, Train_cost:0.618352, Validation_AUC:0.744538
+Currently the best validation AUC found. Test AUC:0.720137 at epoch:3
+Epoch:4, Train_cost:0.586957, Validation_AUC:0.772711
+Currently the best validation AUC found. Test AUC:0.743227 at epoch:4
+Epoch:5, Train_cost:0.570985, Validation_AUC:0.761771
+Epoch:6, Train_cost:0.557375, Validation_AUC:0.779750
+Currently the best validation AUC found. Test AUC:0.748286 at epoch:6
+Epoch:7, Train_cost:0.550895, Validation_AUC:0.780119
+Currently the best validation AUC found. Test AUC:0.751194 at epoch:7
+Epoch:8, Train_cost:0.543883, Validation_AUC:0.787558
+Currently the best validation AUC found. Test AUC:0.756223 at epoch:8
+Epoch:9, Train_cost:0.538821, Validation_AUC:0.782257
+Epoch:10, Train_cost:0.536204, Validation_AUC:0.786368
+Epoch:11, Train_cost:0.528301, Validation_AUC:0.791375
+Currently the best validation AUC found. Test AUC:0.758302 at epoch:11
+Epoch:12, Train_cost:0.526056, Validation_AUC:0.792068
+Currently the best validation AUC found. Test AUC:0.759825 at epoch:12
+Epoch:13, Train_cost:0.522120, Validation_AUC:0.789606
+Epoch:14, Train_cost:0.517512, Validation_AUC:0.790291
+Epoch:15, Train_cost:0.515422, Validation_AUC:0.793287
+Currently the best validation AUC found. Test AUC:0.763156 at epoch:15
+Epoch:16, Train_cost:0.507755, Validation_AUC:0.790750
+Epoch:17, Train_cost:0.506951, Validation_AUC:0.791247
+Epoch:18, Train_cost:0.507429, Validation_AUC:0.790901
+Epoch:19, Train_cost:0.505318, Validation_AUC:0.789259
+Epoch:20, Train_cost:0.498296, Validation_AUC:0.785239
+Epoch:21, Train_cost:0.500169, Validation_AUC:0.789862
+Epoch:22, Train_cost:0.497159, Validation_AUC:0.793144
+Epoch:23, Train_cost:0.494794, Validation_AUC:0.790155
+Epoch:24, Train_cost:0.493111, Validation_AUC:0.789673
+Epoch:25, Train_cost:0.491682, Validation_AUC:0.788815
+Epoch:26, Train_cost:0.487943, Validation_AUC:0.792301
+Epoch:27, Train_cost:0.489360, Validation_AUC:0.789658
+Epoch:28, Train_cost:0.483842, Validation_AUC:0.790042
+Epoch:29, Train_cost:0.481889, Validation_AUC:0.788936
+Epoch:30, Train_cost:0.474886, Validation_AUC:0.786654
+Epoch:31, Train_cost:0.472757, Validation_AUC:0.788145
+Epoch:32, Train_cost:0.475380, Validation_AUC:0.790419
+Epoch:33, Train_cost:0.474257, Validation_AUC:0.787912
+Epoch:34, Train_cost:0.470569, Validation_AUC:0.788514
+Epoch:35, Train_cost:0.467181, Validation_AUC:0.790449
+Epoch:36, Train_cost:0.458415, Validation_AUC:0.784418
+Epoch:37, Train_cost:0.465121, Validation_AUC:0.782416
+Epoch:38, Train_cost:0.463552, Validation_AUC:0.783771
+Epoch:39, Train_cost:0.462329, Validation_AUC:0.786654
+Epoch:40, Train_cost:0.456964, Validation_AUC:0.779193
+Epoch:41, Train_cost:0.458526, Validation_AUC:0.783266
+Epoch:42, Train_cost:0.448362, Validation_AUC:0.781128
+Epoch:43, Train_cost:0.447340, Validation_AUC:0.779863
+Epoch:44, Train_cost:0.452158, Validation_AUC:0.777590
+Epoch:45, Train_cost:0.447654, Validation_AUC:0.775391
+Epoch:46, Train_cost:0.447534, Validation_AUC:0.777130
+Epoch:47, Train_cost:0.441352, Validation_AUC:0.778802
+Epoch:48, Train_cost:0.444229, Validation_AUC:0.779532
+Epoch:49, Train_cost:0.445687, Validation_AUC:0.774337
+Epoch:50, Train_cost:0.440163, Validation_AUC:0.772786
+Epoch:51, Train_cost:0.445430, Validation_AUC:0.773381
+Epoch:52, Train_cost:0.436894, Validation_AUC:0.772056
+Epoch:53, Train_cost:0.436621, Validation_AUC:0.767945
+Epoch:54, Train_cost:0.436230, Validation_AUC:0.766387
+Epoch:55, Train_cost:0.433760, Validation_AUC:0.770964
+Epoch:56, Train_cost:0.431901, Validation_AUC:0.767689
+Epoch:57, Train_cost:0.430390, Validation_AUC:0.768261
+Epoch:58, Train_cost:0.427006, Validation_AUC:0.772063
+Epoch:59, Train_cost:0.422105, Validation_AUC:0.771597
+Epoch:60, Train_cost:0.425336, Validation_AUC:0.772093
+Epoch:61, Train_cost:0.421095, Validation_AUC:0.771597
+Epoch:62, Train_cost:0.421813, Validation_AUC:0.765340
+Epoch:63, Train_cost:0.416239, Validation_AUC:0.764655
+Epoch:64, Train_cost:0.418129, Validation_AUC:0.762720
+Epoch:65, Train_cost:0.417319, Validation_AUC:0.764986
+Epoch:66, Train_cost:0.419436, Validation_AUC:0.765988
+Epoch:67, Train_cost:0.415054, Validation_AUC:0.763608
+Epoch:68, Train_cost:0.416130, Validation_AUC:0.761267
+Epoch:69, Train_cost:0.412132, Validation_AUC:0.765031
+Epoch:70, Train_cost:0.416302, Validation_AUC:0.764941
+Epoch:71, Train_cost:0.408114, Validation_AUC:0.763315
+Epoch:72, Train_cost:0.413935, Validation_AUC:0.763337
+Epoch:73, Train_cost:0.405444, Validation_AUC:0.764896
+Epoch:74, Train_cost:0.406129, Validation_AUC:0.761636
+Epoch:75, Train_cost:0.403961, Validation_AUC:0.763187
+Epoch:76, Train_cost:0.402993, Validation_AUC:0.764580
+Epoch:77, Train_cost:0.408849, Validation_AUC:0.762411
+Epoch:78, Train_cost:0.404354, Validation_AUC:0.759257
+Epoch:79, Train_cost:0.404958, Validation_AUC:0.758398
+Epoch:80, Train_cost:0.406067, Validation_AUC:0.755259
+Epoch:81, Train_cost:0.402580, Validation_AUC:0.757608
+Epoch:82, Train_cost:0.396617, Validation_AUC:0.754905
+Epoch:83, Train_cost:0.403572, Validation_AUC:0.757134
+Epoch:84, Train_cost:0.401173, Validation_AUC:0.758624
+Epoch:85, Train_cost:0.395236, Validation_AUC:0.759648
+Epoch:86, Train_cost:0.391638, Validation_AUC:0.754386
+Epoch:87, Train_cost:0.393013, Validation_AUC:0.752737
+Epoch:88, Train_cost:0.393573, Validation_AUC:0.752232
+Epoch:89, Train_cost:0.395741, Validation_AUC:0.754950
+Epoch:90, Train_cost:0.388435, Validation_AUC:0.755063
+Epoch:91, Train_cost:0.391890, Validation_AUC:0.755206
+Epoch:92, Train_cost:0.390449, Validation_AUC:0.756554
+Epoch:93, Train_cost:0.390066, Validation_AUC:0.756614
+Epoch:94, Train_cost:0.383634, Validation_AUC:0.755146
+Epoch:95, Train_cost:0.382673, Validation_AUC:0.749010
+Epoch:96, Train_cost:0.383162, Validation_AUC:0.753693
+Epoch:97, Train_cost:0.386739, Validation_AUC:0.755681
+Epoch:98, Train_cost:0.382523, Validation_AUC:0.750478
+Epoch:99, Train_cost:0.390566, Validation_AUC:0.746397
+The best validation & test AUC:0.793287, 0.763156 at epoch:15
+Epoch:0, Train_cost:1.004138, Validation_AUC:0.617804
+Currently the best validation AUC found. Test AUC:0.667216 at epoch:0
+Epoch:1, Train_cost:0.806901, Validation_AUC:0.719376
+Currently the best validation AUC found. Test AUC:0.717329 at epoch:1
+Epoch:2, Train_cost:0.688550, Validation_AUC:0.751547
+Currently the best validation AUC found. Test AUC:0.740225 at epoch:2
+Epoch:3, Train_cost:0.626511, Validation_AUC:0.765107
+Currently the best validation AUC found. Test AUC:0.749417 at epoch:3
+Epoch:4, Train_cost:0.592450, Validation_AUC:0.788506
+Currently the best validation AUC found. Test AUC:0.764004 at epoch:4
+Epoch:5, Train_cost:0.569275, Validation_AUC:0.798693
+Currently the best validation AUC found. Test AUC:0.768168 at epoch:5
+Epoch:6, Train_cost:0.557796, Validation_AUC:0.798678
+Epoch:7, Train_cost:0.552618, Validation_AUC:0.797044
+Epoch:8, Train_cost:0.544862, Validation_AUC:0.805672
+Currently the best validation AUC found. Test AUC:0.773693 at epoch:8
+Epoch:9, Train_cost:0.548436, Validation_AUC:0.798317
+Epoch:10, Train_cost:0.543850, Validation_AUC:0.798761
+Epoch:11, Train_cost:0.544271, Validation_AUC:0.807954
+Currently the best validation AUC found. Test AUC:0.776254 at epoch:11
+Epoch:12, Train_cost:0.544525, Validation_AUC:0.803436
+Epoch:13, Train_cost:0.541527, Validation_AUC:0.805477
+Epoch:14, Train_cost:0.537001, Validation_AUC:0.810257
+Currently the best validation AUC found. Test AUC:0.777034 at epoch:14
+Epoch:15, Train_cost:0.540145, Validation_AUC:0.813472
+Currently the best validation AUC found. Test AUC:0.776905 at epoch:15
+Epoch:16, Train_cost:0.541301, Validation_AUC:0.805876
+Epoch:17, Train_cost:0.537075, Validation_AUC:0.811582
+Epoch:18, Train_cost:0.540768, Validation_AUC:0.808300
+Epoch:19, Train_cost:0.537857, Validation_AUC:0.811191
+Epoch:20, Train_cost:0.530985, Validation_AUC:0.800515
+Epoch:21, Train_cost:0.539539, Validation_AUC:0.806809
+Epoch:22, Train_cost:0.537921, Validation_AUC:0.802661
+Epoch:23, Train_cost:0.534562, Validation_AUC:0.806011
+Epoch:24, Train_cost:0.535635, Validation_AUC:0.810250
+Epoch:25, Train_cost:0.535279, Validation_AUC:0.808240
+Epoch:26, Train_cost:0.534582, Validation_AUC:0.803075
+Epoch:27, Train_cost:0.537902, Validation_AUC:0.796916
+Epoch:28, Train_cost:0.535960, Validation_AUC:0.803843
+Epoch:29, Train_cost:0.533462, Validation_AUC:0.797692
+Epoch:30, Train_cost:0.536595, Validation_AUC:0.801336
+Epoch:31, Train_cost:0.536043, Validation_AUC:0.802691
+Epoch:32, Train_cost:0.532243, Validation_AUC:0.805394
+Epoch:33, Train_cost:0.533788, Validation_AUC:0.802382
+Epoch:34, Train_cost:0.531285, Validation_AUC:0.798038
+Epoch:35, Train_cost:0.538764, Validation_AUC:0.789214
+Epoch:36, Train_cost:0.530542, Validation_AUC:0.794304
+Epoch:37, Train_cost:0.531137, Validation_AUC:0.789719
+Epoch:38, Train_cost:0.533031, Validation_AUC:0.795794
+Epoch:39, Train_cost:0.534280, Validation_AUC:0.789184
+Epoch:40, Train_cost:0.531797, Validation_AUC:0.794108
+Epoch:41, Train_cost:0.532899, Validation_AUC:0.799672
+Epoch:42, Train_cost:0.528679, Validation_AUC:0.782702
+Epoch:43, Train_cost:0.530992, Validation_AUC:0.798309
+Epoch:44, Train_cost:0.531567, Validation_AUC:0.784102
+Epoch:45, Train_cost:0.531138, Validation_AUC:0.782596
+Epoch:46, Train_cost:0.525342, Validation_AUC:0.791947
+Epoch:47, Train_cost:0.528343, Validation_AUC:0.794507
+Epoch:48, Train_cost:0.530138, Validation_AUC:0.796367
+Epoch:49, Train_cost:0.531255, Validation_AUC:0.787046
+Epoch:50, Train_cost:0.526730, Validation_AUC:0.786534
+Epoch:51, Train_cost:0.527556, Validation_AUC:0.789515
+Epoch:52, Train_cost:0.527374, Validation_AUC:0.786903
+Epoch:53, Train_cost:0.527635, Validation_AUC:0.794793
+Epoch:54, Train_cost:0.526814, Validation_AUC:0.789387
+Epoch:55, Train_cost:0.524469, Validation_AUC:0.797225
+Epoch:56, Train_cost:0.526585, Validation_AUC:0.788491
+Epoch:57, Train_cost:0.529425, Validation_AUC:0.793491
+Epoch:58, Train_cost:0.522221, Validation_AUC:0.789786
+Epoch:59, Train_cost:0.522908, Validation_AUC:0.796367
+Epoch:60, Train_cost:0.523612, Validation_AUC:0.784200
+Epoch:61, Train_cost:0.521442, Validation_AUC:0.787528
+Epoch:62, Train_cost:0.524858, Validation_AUC:0.788793
+Epoch:63, Train_cost:0.523217, Validation_AUC:0.786541
+Epoch:64, Train_cost:0.523415, Validation_AUC:0.790720
+Epoch:65, Train_cost:0.525959, Validation_AUC:0.780556
+Epoch:66, Train_cost:0.529599, Validation_AUC:0.775760
+Epoch:67, Train_cost:0.525204, Validation_AUC:0.765302
+Epoch:68, Train_cost:0.522573, Validation_AUC:0.791684
+Epoch:69, Train_cost:0.526454, Validation_AUC:0.787445
+Epoch:70, Train_cost:0.526146, Validation_AUC:0.788755
+Epoch:71, Train_cost:0.525198, Validation_AUC:0.783583
+Epoch:72, Train_cost:0.522870, Validation_AUC:0.790916
+Epoch:73, Train_cost:0.519045, Validation_AUC:0.781768
+Epoch:74, Train_cost:0.524565, Validation_AUC:0.786203
+Epoch:75, Train_cost:0.526459, Validation_AUC:0.784787
+Epoch:76, Train_cost:0.521256, Validation_AUC:0.783613
+Epoch:77, Train_cost:0.518977, Validation_AUC:0.776867
+Epoch:78, Train_cost:0.520898, Validation_AUC:0.777206
+Epoch:79, Train_cost:0.519991, Validation_AUC:0.781316
+Epoch:80, Train_cost:0.526980, Validation_AUC:0.781362
+Epoch:81, Train_cost:0.521645, Validation_AUC:0.766628
+Epoch:82, Train_cost:0.519351, Validation_AUC:0.781934
+Epoch:83, Train_cost:0.518082, Validation_AUC:0.774382
+Epoch:84, Train_cost:0.523676, Validation_AUC:0.778478
+Epoch:85, Train_cost:0.518829, Validation_AUC:0.786270
+Epoch:86, Train_cost:0.527858, Validation_AUC:0.775331
+Epoch:87, Train_cost:0.519268, Validation_AUC:0.786971
+Epoch:88, Train_cost:0.525562, Validation_AUC:0.775881
+Epoch:89, Train_cost:0.520917, Validation_AUC:0.770595
+Epoch:90, Train_cost:0.525993, Validation_AUC:0.764504
+Epoch:91, Train_cost:0.523016, Validation_AUC:0.782084
+Epoch:92, Train_cost:0.523987, Validation_AUC:0.764708
+Epoch:93, Train_cost:0.519612, Validation_AUC:0.789530
+Epoch:94, Train_cost:0.520650, Validation_AUC:0.775760
+Epoch:95, Train_cost:0.521839, Validation_AUC:0.790675
+Epoch:96, Train_cost:0.524399, Validation_AUC:0.783537
+Epoch:97, Train_cost:0.520173, Validation_AUC:0.791488
+Epoch:98, Train_cost:0.524517, Validation_AUC:0.794063
+Epoch:99, Train_cost:0.519072, Validation_AUC:0.789395
+The best validation & test AUC:0.813472, 0.776905 at epoch:15
+Epoch:0, Train_cost:1.010505, Validation_AUC:0.625017, Validation AP:0.512388
+Currently the best validation AUC found. Test AUC:0.649948, Test AP:0.532922 at epoch:0
+Epoch:1, Train_cost:0.811282, Validation_AUC:0.716576, Validation AP:0.587936
+Currently the best validation AUC found. Test AUC:0.715307, Test AP:0.578682 at epoch:1
+Epoch:2, Train_cost:0.684243, Validation_AUC:0.756652, Validation AP:0.637241
+Currently the best validation AUC found. Test AUC:0.740383, Test AP:0.598180 at epoch:2
+Epoch:3, Train_cost:0.624704, Validation_AUC:0.777838, Validation AP:0.665942
+Currently the best validation AUC found. Test AUC:0.755715, Test AP:0.611358 at epoch:3
+Epoch:4, Train_cost:0.593610, Validation_AUC:0.789116, Validation AP:0.685608
+Currently the best validation AUC found. Test AUC:0.766230, Test AP:0.638211 at epoch:4
+Epoch:5, Train_cost:0.570738, Validation_AUC:0.793769, Validation AP:0.696154
+Currently the best validation AUC found. Test AUC:0.770441, Test AP:0.648467 at epoch:5
+Epoch:6, Train_cost:0.558800, Validation_AUC:0.802006, Validation AP:0.707834
+Currently the best validation AUC found. Test AUC:0.775113, Test AP:0.653793 at epoch:6
+Epoch:7, Train_cost:0.554130, Validation_AUC:0.808051, Validation AP:0.716286
+Currently the best validation AUC found. Test AUC:0.775351, Test AP:0.653993 at epoch:7
+Epoch:8, Train_cost:0.547304, Validation_AUC:0.806282, Validation AP:0.714707
+Epoch:9, Train_cost:0.545249, Validation_AUC:0.808420, Validation AP:0.718236
+Currently the best validation AUC found. Test AUC:0.774328, Test AP:0.657082 at epoch:9
+Epoch:10, Train_cost:0.543247, Validation_AUC:0.802329, Validation AP:0.713226
+Epoch:11, Train_cost:0.543380, Validation_AUC:0.800952, Validation AP:0.707646
+Epoch:12, Train_cost:0.541406, Validation_AUC:0.800989, Validation AP:0.708662
+Epoch:13, Train_cost:0.538163, Validation_AUC:0.804227, Validation AP:0.717204
+Epoch:14, Train_cost:0.537260, Validation_AUC:0.808563, Validation AP:0.721066
+Currently the best validation AUC found. Test AUC:0.775882, Test AP:0.661453 at epoch:14
+Epoch:15, Train_cost:0.539727, Validation_AUC:0.803926, Validation AP:0.713140
+Epoch:16, Train_cost:0.539570, Validation_AUC:0.803655, Validation AP:0.713323
+Epoch:17, Train_cost:0.538009, Validation_AUC:0.806485, Validation AP:0.717339
+Epoch:18, Train_cost:0.536909, Validation_AUC:0.802984, Validation AP:0.713295
+Epoch:19, Train_cost:0.537905, Validation_AUC:0.802563, Validation AP:0.713436
+Epoch:20, Train_cost:0.538803, Validation_AUC:0.806026, Validation AP:0.715929
+Epoch:21, Train_cost:0.539547, Validation_AUC:0.804927, Validation AP:0.713720
+Epoch:22, Train_cost:0.535173, Validation_AUC:0.801667, Validation AP:0.710671
+Epoch:23, Train_cost:0.540030, Validation_AUC:0.804234, Validation AP:0.714528
+Epoch:24, Train_cost:0.536329, Validation_AUC:0.798685, Validation AP:0.707753
+Epoch:25, Train_cost:0.538284, Validation_AUC:0.797165, Validation AP:0.703938
+Epoch:26, Train_cost:0.533346, Validation_AUC:0.798429, Validation AP:0.704745
+Epoch:27, Train_cost:0.536700, Validation_AUC:0.807321, Validation AP:0.716898
+Epoch:28, Train_cost:0.534063, Validation_AUC:0.803082, Validation AP:0.712109
+Epoch:29, Train_cost:0.533812, Validation_AUC:0.793859, Validation AP:0.700877
+Epoch:30, Train_cost:0.533166, Validation_AUC:0.804980, Validation AP:0.716586
+Epoch:31, Train_cost:0.530692, Validation_AUC:0.801486, Validation AP:0.712829
+Epoch:32, Train_cost:0.535665, Validation_AUC:0.798550, Validation AP:0.707725
+Epoch:33, Train_cost:0.534494, Validation_AUC:0.799431, Validation AP:0.710649
+Epoch:34, Train_cost:0.531598, Validation_AUC:0.799905, Validation AP:0.710586
+Epoch:35, Train_cost:0.532791, Validation_AUC:0.805077, Validation AP:0.717325
+Epoch:36, Train_cost:0.533807, Validation_AUC:0.800108, Validation AP:0.713312
+Epoch:37, Train_cost:0.533882, Validation_AUC:0.807359, Validation AP:0.719894
+Epoch:38, Train_cost:0.535137, Validation_AUC:0.796216, Validation AP:0.700132
+Epoch:39, Train_cost:0.532702, Validation_AUC:0.801464, Validation AP:0.712978
+Epoch:40, Train_cost:0.530736, Validation_AUC:0.794620, Validation AP:0.702264
+Epoch:41, Train_cost:0.531853, Validation_AUC:0.798294, Validation AP:0.706210
+Epoch:42, Train_cost:0.527909, Validation_AUC:0.800214, Validation AP:0.711173
+Epoch:43, Train_cost:0.531655, Validation_AUC:0.800123, Validation AP:0.711488
+Epoch:44, Train_cost:0.528241, Validation_AUC:0.799212, Validation AP:0.709800
+Epoch:45, Train_cost:0.523648, Validation_AUC:0.794424, Validation AP:0.699811
+Epoch:46, Train_cost:0.528489, Validation_AUC:0.789259, Validation AP:0.694196
+Epoch:47, Train_cost:0.529062, Validation_AUC:0.790253, Validation AP:0.695046
+Epoch:48, Train_cost:0.523839, Validation_AUC:0.798053, Validation AP:0.707762
+Epoch:49, Train_cost:0.528069, Validation_AUC:0.794334, Validation AP:0.701338
+Epoch:50, Train_cost:0.528807, Validation_AUC:0.772590, Validation AP:0.675951
+Epoch:51, Train_cost:0.528955, Validation_AUC:0.787317, Validation AP:0.696206
+Epoch:52, Train_cost:0.527025, Validation_AUC:0.786684, Validation AP:0.692403
+Epoch:53, Train_cost:0.526040, Validation_AUC:0.790509, Validation AP:0.687519
+Epoch:54, Train_cost:0.526302, Validation_AUC:0.803406, Validation AP:0.709962
+Epoch:55, Train_cost:0.524539, Validation_AUC:0.780571, Validation AP:0.681438
+Epoch:56, Train_cost:0.524399, Validation_AUC:0.803278, Validation AP:0.706767
+Epoch:57, Train_cost:0.527414, Validation_AUC:0.796502, Validation AP:0.703983
+Epoch:58, Train_cost:0.531227, Validation_AUC:0.800666, Validation AP:0.712133
+Epoch:59, Train_cost:0.527959, Validation_AUC:0.782762, Validation AP:0.687817
+Epoch:60, Train_cost:0.522672, Validation_AUC:0.799785, Validation AP:0.705002
+Epoch:61, Train_cost:0.526342, Validation_AUC:0.786775, Validation AP:0.695654
+Epoch:62, Train_cost:0.521588, Validation_AUC:0.783274, Validation AP:0.688020
+Epoch:63, Train_cost:0.528775, Validation_AUC:0.793686, Validation AP:0.701064
+Epoch:64, Train_cost:0.520881, Validation_AUC:0.794725, Validation AP:0.702822
+Epoch:65, Train_cost:0.524372, Validation_AUC:0.787114, Validation AP:0.697622
+Epoch:66, Train_cost:0.525099, Validation_AUC:0.788559, Validation AP:0.697909
+Epoch:67, Train_cost:0.524480, Validation_AUC:0.786361, Validation AP:0.694346
+Epoch:68, Train_cost:0.525464, Validation_AUC:0.792971, Validation AP:0.698302
+Epoch:69, Train_cost:0.525995, Validation_AUC:0.792173, Validation AP:0.704705
+Epoch:70, Train_cost:0.523619, Validation_AUC:0.791014, Validation AP:0.702024
+Epoch:71, Train_cost:0.522302, Validation_AUC:0.793438, Validation AP:0.705289
+Epoch:72, Train_cost:0.523810, Validation_AUC:0.785021, Validation AP:0.696181
+Epoch:73, Train_cost:0.523541, Validation_AUC:0.789229, Validation AP:0.697828
+Epoch:74, Train_cost:0.523261, Validation_AUC:0.788514, Validation AP:0.698674
+Epoch:75, Train_cost:0.523885, Validation_AUC:0.782288, Validation AP:0.686526
+Epoch:76, Train_cost:0.524311, Validation_AUC:0.789967, Validation AP:0.698838
+Epoch:77, Train_cost:0.520595, Validation_AUC:0.787821, Validation AP:0.697734
+Epoch:78, Train_cost:0.522137, Validation_AUC:0.789681, Validation AP:0.695637
+Epoch:79, Train_cost:0.524227, Validation_AUC:0.792549, Validation AP:0.699257
+Epoch:80, Train_cost:0.517171, Validation_AUC:0.792256, Validation AP:0.700580
+Epoch:81, Train_cost:0.520704, Validation_AUC:0.787972, Validation AP:0.693170
+Epoch:82, Train_cost:0.525307, Validation_AUC:0.797383, Validation AP:0.708094
+Epoch:83, Train_cost:0.527206, Validation_AUC:0.781030, Validation AP:0.689557
+Epoch:84, Train_cost:0.520123, Validation_AUC:0.793739, Validation AP:0.699969
+Epoch:85, Train_cost:0.523735, Validation_AUC:0.785359, Validation AP:0.689945
+Epoch:86, Train_cost:0.525992, Validation_AUC:0.781971, Validation AP:0.689551
+Epoch:87, Train_cost:0.518429, Validation_AUC:0.790359, Validation AP:0.699880
+Epoch:88, Train_cost:0.523524, Validation_AUC:0.773757, Validation AP:0.679289
+Epoch:89, Train_cost:0.524732, Validation_AUC:0.778516, Validation AP:0.683194
+Epoch:90, Train_cost:0.523426, Validation_AUC:0.778305, Validation AP:0.680128
+Epoch:91, Train_cost:0.524710, Validation_AUC:0.793355, Validation AP:0.701749
+Epoch:92, Train_cost:0.519429, Validation_AUC:0.768299, Validation AP:0.672619
+Epoch:93, Train_cost:0.522213, Validation_AUC:0.786579, Validation AP:0.690676
+Epoch:94, Train_cost:0.520598, Validation_AUC:0.793551, Validation AP:0.705135
+Epoch:95, Train_cost:0.516243, Validation_AUC:0.791187, Validation AP:0.697212
+Epoch:96, Train_cost:0.521579, Validation_AUC:0.787919, Validation AP:0.694881
+Epoch:97, Train_cost:0.519327, Validation_AUC:0.795546, Validation AP:0.701529
+Epoch:98, Train_cost:0.524966, Validation_AUC:0.772297, Validation AP:0.683246
+Epoch:99, Train_cost:0.524516, Validation_AUC:0.778809, Validation AP:0.685426
+The best validation & test AUC:0.808563, 0.775882 at epoch:14

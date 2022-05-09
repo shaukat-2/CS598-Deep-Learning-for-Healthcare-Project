@@ -1,0 +1,6 @@
+\copy (select * FROM mimiciii.labtest_dataset) to 'labtest_dataset.csv' delimiter ',' csv header;
+
+python retain.py '.\local_mimic\save\3digitICD9.seqs' 942 '.\local_mimic\save\morts' '.\local_mimic\save\checkpoint\Mortality\Retain\' --simple_load --n_epochs 100 --keep_prob_context 0.8 --keep_prob_emb 0.5
+
+python retainPotassium.py '.\local_mimic\save\3digitICD9.seqs' 942 '.\local_mimic\save\morts' '.\local_mimic\save\checkpoint\Mortality\Retain\' --simple_load --n_epochs 100 --keep_prob_context 0.8 --keep_prob_emb 0.5
+
