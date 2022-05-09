@@ -32,5 +32,5 @@ Notebooks folder contain:
 - utilities.py which is used by other notebooks
 - DeathSet.ipynb : Contains implementations, model training and validations for LR, SVM, LSTM, TCN, MRM for Mortality Dataset
 - PotassiumAbnormalityDataset.ipynb : Contains implementations, model training and validations for LR, SVM, LSTM, TCN, MRM for Potassium Dataset
-- retain.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
-- retainPotassium.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
+- retain.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain). This RETAIN repository also includes execution instuctions. Sample Commands also available in Commands Folder in this repository.
+- retainPotassium.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain). This RETAIN repository also includes execution instuctions. Sample Commands also available in Commands Folder in this repository.
