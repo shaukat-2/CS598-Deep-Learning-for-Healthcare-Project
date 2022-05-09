@@ -34,3 +34,6 @@ Notebooks folder contain:
 - PotassiumAbnormalityDataset.ipynb : Contains implementations, model training and validations for LR, SVM, LSTM, TCN, MRM for Potassium Dataset
 - retain.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain). This RETAIN repository also includes execution instuctions. Sample Commands also available in Commands Folder in this repository.
 - retainPotassium.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain). This RETAIN repository also includes execution instuctions. Sample Commands also available in Commands Folder in this repository.
+
+## Trained Models
+Tained models for this reproducibility studies are available under /local_mimic/save/checkpoint/ folder.
