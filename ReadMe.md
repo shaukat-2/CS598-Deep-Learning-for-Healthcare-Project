@@ -19,7 +19,16 @@ And all the dependencies mentioned in repositories used to sections below.
       - .../local_mimic/views
       - .../local_mimic/tables
       - .../local_mimic/save
-      - .../local_mimic/save/checkpoint
+      - .../local_mimic/save/checkpoint/Mortality/Retain
+      - .../local_mimic/save/checkpoint/PotassiumLabtest/Retain
     - Updated Sqls for required pivot related views and for potassium dataset for postgres run are available in SQL folder of this repository.
     - Updated code for preprocessing.py is available under Data Processing Folder of this repository.
 4. Then use installation instruction section in this [repository](https://github.com/mp2893/retain). Updated Script available in Data Processing Folder in this repository. [process_mimic.py, process_potassium.py]
+
+## Model Build and Evaluation
+Notebooks folder contain:
+    - utilities.py which is used by other notebooks
+    - DeathSet.ipynb
+    - PotassiumAbnormalityDataset.ipynb
+    - retain.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
+    - retainPotassium.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
