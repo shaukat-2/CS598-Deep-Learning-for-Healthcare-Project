@@ -10,13 +10,5 @@ And all the dependencies mentioned in repositories used to perform this study.
 
 ## Data Download & Processing
 
-@article{johnson2018mimic,
-  title={The MIMIC Code Repository: enabling reproducibility in critical care research},
-  author={Johnson, Alistair E W and Stone, David J and Celi, Leo A and Pollard, Tom J},
-  journal={Journal of the American Medical Informatics Association},
-  volume={25},
-  number={1},
-  pages={32--39},
-  year={2018},
-  publisher={Oxford University Press}
-}
+1. Download MIMIC-III Data Set from physionet website after requesting access and acquiring access.
+2. Use main [MIMIC Github Repository](https://github.com/MIT-LCP/mimic-code/tree/main/mimic-iii/benchmark) to load the downloaded .csvs to postgres. This [video](https://www.youtube.com/watch?v=5rg1p7sg2Qo) is very helpful in installation of postgres and building MIMIC Demo Dataset and can be used for whole as well.
