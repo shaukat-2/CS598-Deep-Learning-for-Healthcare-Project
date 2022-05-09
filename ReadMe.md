@@ -7,6 +7,8 @@ Presentation Link: [Youtube](https://youtu.be/U5M4hE0m1sM)
 - Theono
 - TensorFlow
 - Sickit-Learn
+- [keras-tcn](https://github.com/philipperemy/keras-tcn)
+
 And all the dependencies mentioned in repositories used to sections below.
 
 ## Data Download & Processing
@@ -27,8 +29,8 @@ And all the dependencies mentioned in repositories used to sections below.
 
 ## Model Build and Evaluation
 Notebooks folder contain:
-    - utilities.py which is used by other notebooks
-    - DeathSet.ipynb
-    - PotassiumAbnormalityDataset.ipynb
-    - retain.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
-    - retainPotassium.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
+- utilities.py which is used by other notebooks
+- DeathSet.ipynb : Contains implementations, model training and validations for LR, SVM, LSTM, TCN, MRM for Mortality Dataset
+- PotassiumAbnormalityDataset.ipynb : Contains implementations, model training and validations for LR, SVM, LSTM, TCN, MRM for Potassium Dataset
+- retain.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
+- retainPotassium.py (code for version python 3.6) referenced from [RETAIN Github] (https://github.com/mp2893/retain)
